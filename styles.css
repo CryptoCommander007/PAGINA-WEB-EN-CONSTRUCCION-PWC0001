@@ -1,0 +1,15 @@
+.PWC0001-container {
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.PWC0001-icon {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
